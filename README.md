@@ -1,6 +1,6 @@
 # Speech-Prompts-Adapters
 
-This Repository surveys the paper focusing on **Prompting** and **Adapters** and for **Speech Processing**.
+This Repository surveys the paper focusing on **Adapters** and **Prompting** methods for **Speech Processing**.
 
 ## Navigation
 * [ICASSP 2023 Tutorial Information](https://github.com/ga642381/Speech-Prompts-Adapters/edit/main/README.md#icassp-2023-tutorial-information)
