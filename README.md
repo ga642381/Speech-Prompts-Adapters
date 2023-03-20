@@ -4,6 +4,13 @@ We will give a tutorial in [ICASSP 2023](https://2023.ieeeicassp.org/) about Par
 
 This Repository surveys the paper focusing on **Prompting** and **Adapters** for **Speech Processing**. 
 
+## Navigation
+* [ICASSP2023 Tutorial Information](https://github.com/ga642381/Speech-Prompts-Adapters/edit/main/README.md#icassp2023-tutorial-information)
+* [Prompting for Speech Processing](https://github.com/ga642381/Speech-Prompts-Adapters/#prompting-and-adapters-for-speech-processing)
+* [Adapters for Speech Processing](https://github.com/ga642381/Speech-Prompts-Adapters/#adapters-for-speech-processing)
+* [Reprogramming and Prompting](https://github.com/ga642381/Speech-Prompts-Adapters/#reprogramming-and-prompting)
+* [Contact](https://github.com/ga642381/Speech-Prompts-Adapters/#contact)
+
 ## ICASSP2023 Tutorial Information
 * Title: Parameter-Efficient Learning for Speech and Language Processing: Adapters, Prompts, and Reprogramming
 * Conference: ICASSP 2023
