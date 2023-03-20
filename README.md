@@ -1,17 +1,21 @@
 # Speech-Prompts-Adapters
 
-We will give a tutorial in [ICASSP 2023](https://2023.ieeeicassp.org/) about Paramter-Efficient Learning for Speech processing and Natural Langauge Processing. The main technologies will cover prompts, adapters and reprogramming.
-
-This Repository surveys the paper focusing on **Prompting** and **Adapters** for **Speech Processing**. 
+This Repository surveys the paper focusing on **Prompting** and **Adapters** and for **Speech Processing**.
 
 ## Navigation
-* [ICASSP2023 Tutorial Information](https://github.com/ga642381/Speech-Prompts-Adapters/edit/main/README.md#icassp2023-tutorial-information)
-* [Prompting for Speech Processing](https://github.com/ga642381/Speech-Prompts-Adapters/#prompting-and-adapters-for-speech-processing)
+* [ICASSP 2023 Tutorial Information](https://github.com/ga642381/Speech-Prompts-Adapters/edit/main/README.md#icassp-2023-tutorial-information)
 * [Adapters for Speech Processing](https://github.com/ga642381/Speech-Prompts-Adapters/#adapters-for-speech-processing)
+* [Prompting for Speech Processing](https://github.com/ga642381/Speech-Prompts-Adapters/#prompting-and-adapters-for-speech-processing)
 * [Reprogramming and Prompting](https://github.com/ga642381/Speech-Prompts-Adapters/#reprogramming-and-prompting)
+* [Parameter Efficient Learning Methods](https://github.com/ga642381/Speech-Prompts-Adapters/#parameter-efficient-learning-methods)
 * [Contact](https://github.com/ga642381/Speech-Prompts-Adapters/#contact)
 
-## ICASSP2023 Tutorial Information
+## NEWS
+* In [ICASSP 2023](https://2023.ieeeicassp.org/), we will give a tutorial about Paramter-Efficient Learning for speech processing and natural langauge processing. I ([Kai-Wei Chang](https://scholar.google.com.tw/citations?user=hE_Oq8cAAAAJ&hl=zh-TW)) will cover the topics of adapters and prompts for speech processing.
+
+---
+
+## ICASSP 2023 Tutorial Information
 * Title: Parameter-Efficient Learning for Speech and Language Processing: Adapters, Prompts, and Reprogramming
 * Conference: ICASSP 2023
 * Website: [ICASSP 2023 - Tutorials]( https://2023.ieeeicassp.org/tutorials/#1675893601715-597a5c9b-de65)
@@ -23,18 +27,9 @@ This Repository surveys the paper focusing on **Prompting** and **Adapters** for
 * Kai-Wei Chang (National Taiwan University)
 * Cheng-Han Chiang (National Taiwan University)
 
-## Prompting and Adapters for Speech Processing
+---
 
-### Prompting for Speech Processing
-
-| Title | Authors | Modality | Task | Link |
-| ----- | ------- | -------- | ---- | ---- |
-| SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks | Kai-Wei Chang et al. | Speech | [Multiple] | [arXiv 2023](https://arxiv.org/abs/2303.00733)
-|Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision| Eugene Kharitonov et al. | Text & Speech | TTS |[arXiv 2023](https://arxiv.org/abs/2302.03540)
-| Describing emotions with acoustic property prompts for speech emotion recognition | Hira Dhamyal et al. | Text & Speech | ER | [arXiv 2022](https://arxiv.org/abs/2211.07737)
-| PromptTTS: Controllable Text-to-Speech with Text Descriptions | Zhifang Guo et al. | Text & Speech | TTS | [arXiv 2022](https://arxiv.org/abs/2211.12171)
-|WAVPROMPT: Towards Few-Shot Spoken Language Understanding with Frozen Language Models| Heting Gao et al. |Text & Speech | SLU | [Interspeech 2022](https://www.isca-speech.org/archive/interspeech_2022/gao22e_interspeech.html)
-| An Exploration of Prompt Tuning on Generative Spoken Language Model for Speech Processing Tasks | Kai-Wei Chang et al. | Speech | [Multiple] | [Interspeech 2022](https://www.isca-speech.org/archive/interspeech_2022/chang22e_interspeech.html) |
+## Adapters and Prompting for Speech Processing
 
 ### Adapters for Speech Processing
 | Title | Authors | Modality | Task | Link |
@@ -55,12 +50,38 @@ This Repository surveys the paper focusing on **Prompting** and **Adapters** for
 |Residual Adapters for Parameter-Efficient ASR Adaptation to Atypical and Accented Speech | Katrin Tomanek et al. | Speech | ASR | [EMNLP 2021](https://aclanthology.org/2021.emnlp-main.541/)
 |Large-Scale Multilingual Speech Recognition with a Streaming End-to-End Model| Anjuli Kannan et al. | Speech | ASR | [Interspeech 2019](https://www.isca-speech.org/archive_v0/Interspeech_2019/abstracts/2858.html)
 
+### Prompting for Speech Processing
+
+| Title | Authors | Modality | Task | Link |
+| ----- | ------- | -------- | ---- | ---- |
+| From English to More Languages: Parameter-Efficient Model Reprogramming for Cross-Lingual Speech Recognition | Chao-Han Huck Yang et al. |Speech | ASR | [ICASSP 2023](https://arxiv.org/pdf/2301.07851.pdf)
+| SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks | Kai-Wei Chang et al. | Speech | [Multiple] | [arXiv 2023](https://arxiv.org/abs/2303.00733)
+|Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision| Eugene Kharitonov et al. | Text & Speech | TTS |[arXiv 2023](https://arxiv.org/abs/2302.03540)
+| Describing emotions with acoustic property prompts for speech emotion recognition | Hira Dhamyal et al. | Text & Speech | ER | [arXiv 2022](https://arxiv.org/abs/2211.07737)
+| PromptTTS: Controllable Text-to-Speech with Text Descriptions | Zhifang Guo et al. | Text & Speech | TTS | [arXiv 2022](https://arxiv.org/abs/2211.12171)
+|Neural Model Reprogramming with Similarity Based Mapping for Low-Resource Spoken Command Classification| Hao Yen et al. | Speech  | Spoken Command Recognition | [arXiv 2022](https://arxiv.org/abs/2110.03894)
+|WAVPROMPT: Towards Few-Shot Spoken Language Understanding with Frozen Language Models| Heting Gao et al. |Text & Speech | SLU | [Interspeech 2022](https://www.isca-speech.org/archive/interspeech_2022/gao22e_interspeech.html)
+| An Exploration of Prompt Tuning on Generative Spoken Language Model for Speech Processing Tasks | Kai-Wei Chang et al. | Speech | [Multiple] | [Interspeech 2022](https://www.isca-speech.org/archive/interspeech_2022/chang22e_interspeech.html) |
+
+---
 
 ## Reprogramming and Prompting
 For more information about reprogramming and prompting for large pre-trained models, please refer to the "awesome-neural-reprogramming-acoustic-prompting" repository. This topic was also covered in **ICASSP 2022** tutorial by Dr. Pin-Yu Chen and Dr. Huck Yang.
 
 * GitHub Resource:  [awesome-neural-reprogramming-acoustic-prompting](https://github.com/huckiyang/awesome-neural-reprogramming-prompting)
 * Tutorial Video: [ICASSP 22 Tutorial, "Neural Model Reprogramming and Prompting for Speech Modeling, " Huck Yang](https://www.youtube.com/watch?v=-iirkbYkyXI&ab_channel=Chao-HanHuckYang)
+
+---
+
+## Parameter Efficient Learning Methods
+| Title | Authors | Link |
+| ----- | ------- | ---- |
+|BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models| Elad Ben Zaken et al. | [ACL 2022](https://aclanthology.org/2022.acl-short.1/)
+|Towards a Unified View of Parameter-Efficient Transfer Learning| Junxian He et al. | [ICLR 2022](https://iclr.cc/virtual/2022/poster/6524)
+|LoRA: Low-Rank Adaptation of Large Language Models| Edward J. Hu et al. | [ICLR 2022](https://iclr.cc/virtual/2022/poster/6319)
+|Parameter-Efficient Transfer Learning for NLP| Neil Houlsby et al. | [ICML 2019](https://proceedings.mlr.press/v97/houlsby19a.html)
+
+---
 
 ## Acknowledgment
 We thank Kuang-Chen Peng, Tzu-Han Lin, and Fabian Ritter for their invaluable contribution to the initial collection.
