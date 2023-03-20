@@ -4,10 +4,10 @@ This Repository surveys the paper focusing on **Adapters** and **Prompting** met
 
 ## Navigation
 * [ICASSP 2023 Tutorial Information](https://github.com/ga642381/Speech-Prompts-Adapters/#icassp-2023-tutorial-information)
-* [Adapters for Speech Processing](https://github.com/ga642381/Speech-Prompts-Adapters/#adapters-for-speech-processing)
-* [Prompting for Speech Processing](https://github.com/ga642381/Speech-Prompts-Adapters/#prompting-for-speech-processing)
-* [Reprogramming and Prompting](https://github.com/ga642381/Speech-Prompts-Adapters/#reprogramming-and-prompting)
-* [Parameter Efficient Learning Methods](https://github.com/ga642381/Speech-Prompts-Adapters/#parameter-efficient-learning-methods)
+* [**Adapters** for Speech Processing](https://github.com/ga642381/Speech-Prompts-Adapters/#adapters-for-speech-processing)
+* [**Prompting** for Speech Processing](https://github.com/ga642381/Speech-Prompts-Adapters/#prompting-for-speech-processing)
+* [**Reprogramming** and Prompting](https://github.com/ga642381/Speech-Prompts-Adapters/#reprogramming-and-prompting)
+* [**Parameter Efficient Learning** Methods](https://github.com/ga642381/Speech-Prompts-Adapters/#parameter-efficient-learning-methods)
 * [Contact](https://github.com/ga642381/Speech-Prompts-Adapters/#contact)
 
 ## NEWS
