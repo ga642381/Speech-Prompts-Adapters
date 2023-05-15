@@ -48,6 +48,7 @@ This Repository surveys the paper focusing on **Adapters** and **Prompting** met
 |Exploiting Adapters for Cross-Lingual Low-Resource Speech Recognition| Wenxin Hou et al. | Speech | ASR | [TASLP 2021](https://dl.acm.org/doi/abs/10.1109/TASLP.2021.3138674)
 |Lightweight Adapter Tuning for Multilingual Speech Translation | Hang Le et al.| Speech | Speech Translation | [ACL-IJCNLP 2021](https://aclanthology.org/2021.acl-short.103/)
 |Residual Adapters for Parameter-Efficient ASR Adaptation to Atypical and Accented Speech | Katrin Tomanek et al. | Speech | ASR | [EMNLP 2021](https://aclanthology.org/2021.emnlp-main.541/)
+|Multilingual Speech Recognition with Self-Attention Structured Parameterization | Yun Zhu et al. | Speech | ASR | [Interspeech 2020](https://www.isca-speech.org/archive/interspeech_2020/zhu20d_interspeech.html)
 |Large-Scale Multilingual Speech Recognition with a Streaming End-to-End Model| Anjuli Kannan et al. | Speech | ASR | [Interspeech 2019](https://www.isca-speech.org/archive_v0/Interspeech_2019/abstracts/2858.html)
 
 ### Prompting for Speech Processing
