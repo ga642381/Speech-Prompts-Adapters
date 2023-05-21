@@ -55,7 +55,8 @@ This Repository surveys the paper focusing on **Adapters** and **Prompting** met
 
 | Title | Authors | Modality | Task | Link |
 | ----- | ------- | -------- | ---- | ---- |
-| From English to More Languages: Parameter-Efficient Model Reprogramming for Cross-Lingual Speech Recognition | Chao-Han Huck Yang et al. |Speech | ASR | [ICASSP 2023](https://arxiv.org/pdf/2301.07851.pdf)
+| Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization | Puyuan Peng et al. | Speeh | [Multiple] | [Interspeech 2023](https://arxiv.org/abs/2305.11095)
+| From English to More Languages: Parameter-Efficient Model Reprogramming for Cross-Lingual Speech Recognition | Chao-Han Huck Yang et al. | Speech | ASR | [ICASSP 2023](https://arxiv.org/pdf/2301.07851.pdf)
 | SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks | Kai-Wei Chang et al. | Speech | [Multiple] | [arXiv 2023](https://arxiv.org/abs/2303.00733)
 |Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision| Eugene Kharitonov et al. | Text & Speech | TTS |[arXiv 2023](https://arxiv.org/abs/2302.03540)
 | Describing emotions with acoustic property prompts for speech emotion recognition | Hira Dhamyal et al. | Text & Speech | ER | [arXiv 2022](https://arxiv.org/abs/2211.07737)
