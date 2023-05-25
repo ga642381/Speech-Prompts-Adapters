@@ -34,6 +34,7 @@ This Repository surveys the paper focusing on **Adapters** and **Prompting** met
 ### Adapters for Speech Processing
 | Title | Authors | Modality | Task | Link |
 | ----- | ------- | -------- | ---- | ---- |
+| A Parameter-Efficient Learning Approach to Arabic Dialect Identification with Pre-Trained General-Purpose Speech Model | Srijith Radhakrishnan et al. | Speech | Dialect Identification | [Interspeech 2023](https://arxiv.org/abs/2305.11244)
 | CHAPTER: Exploiting Convolutional Neural Network Adapters for Self-supervised Speech Models | Zih-Ching Chen et al. | Speech | [Multiple] | [arXiv 2022](https://arxiv.org/abs/2212.01282) 
 | Parameter Efficient Transfer Learning for Various Speech Processing Tasks |Shinta Otake et al. | Speech | [Multiple] | [arXiv 2022](https://arxiv.org/abs/2212.02780)
 | Parameter-efficient transfer learning of pre-trained Transformer models for speaker verification using adapters | Junyi Peng et al. | Speech | Speaker Verification | [arXiv 2022](https://arxiv.org/abs/2210.16032)
@@ -55,7 +56,7 @@ This Repository surveys the paper focusing on **Adapters** and **Prompting** met
 
 | Title | Authors | Modality | Task | Link |
 | ----- | ------- | -------- | ---- | ---- |
-| Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization | Puyuan Peng et al. | Speeh | [Multiple] | [Interspeech 2023](https://arxiv.org/abs/2305.11095)
+| Prompting the Hidden Talent of Web-Scale Speech Models for Zero-Shot Task Generalization | Puyuan Peng et al. | Speech | [Multiple] | [Interspeech 2023](https://arxiv.org/abs/2305.11095)
 | From English to More Languages: Parameter-Efficient Model Reprogramming for Cross-Lingual Speech Recognition | Chao-Han Huck Yang et al. | Speech | ASR | [ICASSP 2023](https://arxiv.org/pdf/2301.07851.pdf)
 | SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks | Kai-Wei Chang et al. | Speech | [Multiple] | [arXiv 2023](https://arxiv.org/abs/2303.00733)
 |Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision| Eugene Kharitonov et al. | Text & Speech | TTS |[arXiv 2023](https://arxiv.org/abs/2302.03540)
