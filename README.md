@@ -34,6 +34,7 @@ This Repository surveys the paper focusing on **Adapters** and **Prompting** met
 ### Adapters for Speech Processing
 | Title | Authors | Modality | Task | Link |
 | ----- | ------- | -------- | ---- | ---- |
+| Beyond Universal Transformer: block reusing with adaptor in Transformer for automatic speech recognition | Haoyu Tang et al. | Speech | ASR | [arXiv 2023](https://arxiv.org/abs/2303.13072)
 | A Parameter-Efficient Learning Approach to Arabic Dialect Identification with Pre-Trained General-Purpose Speech Model | Srijith Radhakrishnan et al. | Speech | Dialect Identification | [Interspeech 2023](https://arxiv.org/abs/2305.11244)
 | CHAPTER: Exploiting Convolutional Neural Network Adapters for Self-supervised Speech Models | Zih-Ching Chen et al. | Speech | [Multiple] | [arXiv 2022](https://arxiv.org/abs/2212.01282) 
 | Parameter Efficient Transfer Learning for Various Speech Processing Tasks |Shinta Otake et al. | Speech | [Multiple] | [arXiv 2022](https://arxiv.org/abs/2212.02780)
