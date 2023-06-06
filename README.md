@@ -19,6 +19,7 @@ This Repository surveys the paper focusing on **Adapters** and **Prompting** met
 * Title: Parameter-Efficient Learning for Speech and Language Processing: Adapters, Prompts, and Reprogramming
 * Conference: ICASSP 2023
 * Website: [ICASSP 2023 - Tutorials]( https://2023.ieeeicassp.org/tutorials/#1675893601715-597a5c9b-de65)
+* Parameter-Efficient Learning for Speech Processing [Slides](https://github.com/ga642381/Kai-Wei-Chang-Talks/blob/main/Part%203b%20Parameter-Efficient%20Learning%20for%20Speech%20Processing.pdf)
 
 ### Presenters: 
 * Pin-Yu Chen (IBM Research)
